@@ -1,0 +1,15 @@
+.edit-nav {
+  background-color: gray;
+  font-size: larger;
+  font-weight: bolder;
+}
+.logo {
+  font-size: xx-large;
+  color: white;
+}
+.navbar {
+  transform-origin: all 1s;
+}
+.navbar.scrolled {
+  padding: 10px;
+}
